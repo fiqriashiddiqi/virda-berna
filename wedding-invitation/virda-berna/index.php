@@ -379,7 +379,7 @@ jQuery(function($){
 				
 				<div class="et_pb_text_inner">
 					<h1>Virda Dwiastuti, SE</h1>
-                	<p><strong>The Daughter of</strong><br>Mr. Juju Leo <br> &amp; Mrs. Cicih
+                	<p><strong>The Daughter of</strong><br>Mr. Juju Juanda <br> &amp; Mrs. Cicih
 			</div> <!-- .et_pb_text -->
 			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_4  et_pb_css_mix_blend_mode_passthrough">
 				
@@ -481,7 +481,7 @@ jQuery(function($){
 				
 				
 				<div class="et_pb_button_module_wrapper et_pb_button_1_wrapper et_pb_button_alignment_center et_pb_module ">
-				<a class="et_pb_button et_pb_button_1 et_animated et_pb_bg_layout_light" href="https://goo.gl/maps/PEqja2MzSeQB9JWj7" target="_blank" style="background-color: #537a75!important;box-shadow: 0px 2px 18px 0px rgb(0 0 0 / 20%);">Google Maps</a>
+				<a class="et_pb_button et_pb_button_1 et_animated et_pb_bg_layout_light" href="https://goo.gl/maps/FFnaxh3MTLGrZej59" target="_blank" style="background-color: #537a75!important;box-shadow: 0px 2px 18px 0px rgb(0 0 0 / 20%);">Google Maps</a>
 			</div>
 			</div> <!-- .et_pb_column -->
 				
@@ -849,9 +849,9 @@ jQuery(function($){
 		    <p><input type="text" value="2990635211" id="myInput" disabled style="border: none;border-color: transparent;font-weight:700;font-size:medium;text-align: center;"><strong><br>a.n. Dwi Berna Subarkah</strong></p>
 			<!-- <button style="background-color: #537a75!important;box-shadow: 0px 2px 18px 0px rgb(0 0 0 / 20%);" onclick="myFunction()">Copy </button> -->
 			<!-- <a class="et_pb_button et_pb_button_1 et_animated et_pb_bg_layout_light" id="" style="background-color: #537a75!important;box-shadow: 0px 2px 18px 0px rgb(0 0 0 / 20%);">Copy</a> -->
-			<img src="mandiri.png" style="width: 110px;"><br>
+			<img src="bjb.png" style="width: 168px;"><br>
 			<!-- <img src="Virda.jpeg" style="width: 260px;"> -->
-		    <p><input type="text" value="134 00 1124613 8" id="myInput" disabled style="border: none;border-color: transparent;font-weight:700;font-size:medium;text-align: center;"><strong><br>a.n. Virda Aisha Kurnia</strong></p>
+		    <p><input type="text" value="0092799425100" id="myInput" disabled style="border: none;border-color: transparent;font-weight:700;font-size:medium;text-align: center;"><strong><br>a.n. Virda Dwiastuti</strong></p>
     	</div>
     </div>
     
