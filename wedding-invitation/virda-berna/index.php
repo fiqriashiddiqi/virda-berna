@@ -332,7 +332,7 @@ jQuery(function($){
 					
 					<div class="et_pb_blurb_container">
 						<h4 class="et_pb_module_header"><span>Virda & Berna</span></h4>
-						<div class="et_pb_blurb_description"><p style="text-align: center;">14 February 2022</p></div>
+						<div class="et_pb_blurb_description"><p style="text-align: center;">06 August 2022</p></div>
 
 						
 					</div>
