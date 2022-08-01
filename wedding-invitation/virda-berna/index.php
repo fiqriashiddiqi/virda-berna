@@ -467,7 +467,7 @@ jQuery(function($){
 					<div class="et_pb_blurb_container">
 						<h4 class="et_pb_module_header"><span>Reception</span></h4>
 						<div class="et_pb_blurb_description">
-							<p>Saturday, 06 August 2022<br> <span> 11.00 s/d 18.00 WIB</span><br> <strong>bride's residence
+							<p>Saturday, 06 August 2022<br> <span> 10.00 s/d 18.00 WIB</span><br> <strong>bride's residence
  </strong><br> Jln. Ir H Juanda No.54 Rt.04/03 Kel.Awirarangan Kec.Kuningan,<br> Kabupaten Kuningan, Jawa Barat </p>
 						</div>
 					</div>
@@ -846,7 +846,7 @@ jQuery(function($){
     	<div style="text-align: center">
 	    	<img src="bca.png" style="width: 110px;"><br>
 			<!-- <img src="addin.jpeg" style="width: 260px;"> -->
-		    <p><input type="text" value="2990635211" id="myInput" disabled style="border: none;border-color: transparent;font-weight:700;font-size:medium;text-align: center;"><strong><br>a.n. Dwi Berna Subarkah</strong></p>
+		    <p><input type="text" value="6281769585" id="myInput" disabled style="border: none;border-color: transparent;font-weight:700;font-size:medium;text-align: center;"><strong><br>a.n. Dwi Berna P S</strong></p>
 			<!-- <button style="background-color: #537a75!important;box-shadow: 0px 2px 18px 0px rgb(0 0 0 / 20%);" onclick="myFunction()">Copy </button> -->
 			<!-- <a class="et_pb_button et_pb_button_1 et_animated et_pb_bg_layout_light" id="" style="background-color: #537a75!important;box-shadow: 0px 2px 18px 0px rgb(0 0 0 / 20%);">Copy</a> -->
 			<img src="bjb.png" style="width: 168px;"><br>
