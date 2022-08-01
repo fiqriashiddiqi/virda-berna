@@ -253,7 +253,7 @@ jQuery(function($){
 				<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_center et_pb_bg_layout_light">
 				
 				
-				<div class="et_pb_text_inner" style="">
+				<div class="et_pb_text_inner" style=""><p id="namaUndangan"></p>
 <p style="font-family: 'Pacifico';font-weight: 200;">You Are Invited!&nbsp;</p>
 <p style="font-family: 'Pacifico';font-weight: 200;">The Wedding of</p>
 <h1 style="font-family:'Sacramento',handwriting">Virda & Berna</h1>
@@ -266,7 +266,12 @@ jQuery(function($){
         var nama = urlParams.get('nama');
         var test = 7;
         console.log(nama);
-        document.getElementById("namaUndangan").innerHTML = "Dear "+ nama +",";
+		if(nama==null){
+			document.getElementById("namaUndangan").innerHTML = "";
+		}else{
+			document.getElementById("namaUndangan").innerHTML = "Dear "+ nama +",";
+		}
+        
 </script></div>
 
 			</div> <!-- .et_pb_text --><div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_center et_pb_module ">
